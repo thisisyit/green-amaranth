@@ -1,1 +1,2 @@
-# green-amaranth
+## green-amaranth project
+hello!
